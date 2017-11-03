@@ -1,5 +1,8 @@
 # Create a Progressive Web App with [Angular CLI](https://cli.angular.io)
 
+## ATTENTION: --MOBILE OPTION IS NOT A CURRENT AVAILABLE OPTION WITH ANGULAR-CLI [SEE](https://github.com/angular/angular-cli/issues/5791)
+
+
 Progressive Web Apps are web apps that combine the benefits of the Web
 with the capabilities and performance of native Apps. Angular makes it
 easy to get started building progressive Web apps with our Angular Mobile
